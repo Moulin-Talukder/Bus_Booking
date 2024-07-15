@@ -9,7 +9,6 @@ Bus Booking is a professional Bus Booking Solution developed with PHP Laravel, d
 - [Admin Features](#admin-features)
 - [Installation](#installation)
 - [Support](#support)
-- [License](#license)
 
 ## Overview
 
@@ -117,6 +116,3 @@ Bus Booking Solution provides a ready-to-go platform that helps you manage unlim
 
 ## Support
 For support, installation, and customization, please contact us at [support@busbooking.com](mailto:support@busbooking.com). We are committed to providing the best support to ensure your success.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
